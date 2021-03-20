@@ -1,0 +1,10 @@
+%EXPORT Omega Engineering Data                  
+%FORMAT CSV                                     
+%VERSION 2.00.63                                
+%BEGIN
+
+# Reading Number #, # Date and Time (CDT) #, # Pulses (GPH) #, # Annotation 0 #, # Annotation #
+"1","2016-04-07 12:04:59","+19.51219512195","",""
+"2","2016-04-07 12:05:01","+0","",""
+"3","2016-04-07 12:05:01","+0","",""
+"4","2016-04-07 12:05:02","+0","",""
